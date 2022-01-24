@@ -1,6 +1,6 @@
 # String-Similarity-Hackerrank-problem-solution
-Solution
-Python 2.
+#Solution
+#Python 2.
 
 def stringSimilarity(a):
     # Solved using Z Algorithm : http://codeforces.com/blog/entry/3107
